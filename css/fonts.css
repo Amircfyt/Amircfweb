@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+	font-family: 'B Nazanin';
+	src: url('fonts/BNazanin.eot');
+	src: local('âک؛'), url('fonts/BNazanin.woff') format('woff'),
+	     url('fonts/BNazanin.ttf') format('truetype'),
+	     url('fonts/BNazanin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'UbuntuMonoRegular';
+    src: url('fonts/ubuntumono-r-webfont.eot');
+    src: url('fonts/ubuntumono-r-webfontd41d.eot#iefix') format('embedded-opentype'),
+         url('fonts/ubuntumono-r-webfont.woff') format('woff'),
+         url('fonts/ubuntumono-r-webfont.ttf') format('truetype'),
+         url('fonts/ubuntumono-r-webfont.svg#UbuntuMonoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuMonoItalic';
+    src: url('fonts/ubuntumono-ri-webfont.eot');
+    src: url('fonts/ubuntumono-ri-webfontd41d.eot#iefix') format('embedded-opentype'),
+         url('fonts/ubuntumono-ri-webfont.woff') format('woff'),
+         url('fonts/ubuntumono-ri-webfont.ttf') format('truetype'),
+         url('fonts/ubuntumono-ri-webfont.svg#UbuntuMonoItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'BYekan';
+    src: url('fonts/BYekan.eot');
+    src: url('fonts/BYekand41d.eot#iefix') format('embedded-opentype'),
+         url('fonts/BYekan.woff') format('woff'),
+         url('fonts/BYekan.ttf') format('truetype'),
+         url('fonts/BYekan.svg#BYekan') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
